@@ -277,3 +277,11 @@ Tier-1 alert triage, SIEM tuning, and incident documentation across a 24/7 monit
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:6d28d9,100:1a0b2e&height=160&section=footer&text=Stay%20Curious.%20Stay%20Ethical.&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=68" />
 
 </div>
+
+<div align="center">
+
+<img src="./assets/skills.svg" alt="Skill levels" width="100%" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:282828,50:504945,100:282828&height=2&section=header" />
+
+</div>

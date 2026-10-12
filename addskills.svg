@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="300" viewBox="0 0 700 300" role="img" aria-label="Skill levels">
+<rect x="0.5" y="0.5" width="699" height="299" rx="10" fill="#282828" stroke="#3c3836"/>
+<text x="24" y="34" font-family="JetBrains Mono, Consolas, monospace" font-size="15" font-weight="600" fill="#fabd2f">SKILL LEVELS</text>
+<line x1="24" y1="44" x2="676" y2="44" stroke="#3c3836"/>
+
+<text x="24" y="77" font-family="JetBrains Mono, Consolas, monospace" font-size="13" fill="#ebdbb2">Python</text>
+<rect x="210" y="69" width="380" height="10" rx="5" fill="#3c3836"/>
+<rect x="210" y="69" width="304" height="10" rx="5" fill="#d79921"><animate attributeName="width" from="0" to="304" dur="1s" fill="freeze"/></rect>
+<text x="606" y="77" font-family="JetBrains Mono, Consolas, monospace" font-size="13" fill="#a89984">80%</text>
+
+<text x="24" y="115" font-family="JetBrains Mono, Consolas, monospace" font-size="13" fill="#ebdbb2">C / C++</text>
+<rect x="210" y="107" width="380" height="10" rx="5" fill="#3c3836"/>
+<rect x="210" y="107" width="247" height="10" rx="5" fill="#d79921"><animate attributeName="width" from="0" to="247" dur="1s" fill="freeze"/></rect>
+<text x="606" y="115" font-family="JetBrains Mono, Consolas, monospace" font-size="13" fill="#a89984">65%</text>
+
+<text x="24" y="153" font-family="JetBrains Mono, Consolas, monospace" font-size="13" fill="#ebdbb2">Bash &amp; Linux</text>
+<rect x="210" y="145" width="380" height="10" rx="5" fill="#3c3836"/>
+<rect x="210" y="145" width="266" height="10" rx="5" fill="#d79921"><animate attributeName="width" from="0" to="266" dur="1s" fill="freeze"/></rect>
+<text x="606" y="153" font-family="JetBrains Mono, Consolas, monospace" font-size="13" fill="#a89984">70%</text>
+
+<text x="24" y="191" font-family="JetBrains Mono, Consolas, monospace" font-size="13" fill="#ebdbb2">Networking</text>
+<rect x="210" y="183" width="380" height="10" rx="5" fill="#3c3836"/>
+<rect x="210" y="183" width="266" height="10" rx="5" fill="#d79921"><animate attributeName="width" from="0" to="266" dur="1s" fill="freeze"/></rect>
+<text x="606" y="191" font-family="JetBrains Mono, Consolas, monospace" font-size="13" fill="#a89984">70%</text>
+
+<text x="24" y="229" font-family="JetBrains Mono, Consolas, monospace" font-size="13" fill="#ebdbb2">Web Security</text>
+<rect x="210" y="221" width="380" height="10" rx="5" fill="#3c3836"/>
+<rect x="210" y="221" width="228" height="10" rx="5" fill="#d79921"><animate attributeName="width" from="0" to="228" dur="1s" fill="freeze"/></rect>
+<text x="606" y="229" font-family="JetBrains Mono, Consolas, monospace" font-size="13" fill="#a89984">60%</text>
+
+<text x="24" y="267" font-family="JetBrains Mono, Consolas, monospace" font-size="13" fill="#ebdbb2">Reverse Engineering</text>
+<rect x="210" y="259" width="380" height="10" rx="5" fill="#3c3836"/>
+<rect x="210" y="259" width="133" height="10" rx="5" fill="#d79921"><animate attributeName="width" from="0" to="133" dur="1s" fill="freeze"/></rect>
+<text x="606" y="267" font-family="JetBrains Mono, Consolas, monospace" font-size="13" fill="#a89984">35%</text>
+</svg>
